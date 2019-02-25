@@ -11,6 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    
+    
+  },
+  "devDependencies": {
     "eslint": "^5.14.1",
     "nodemon": "^1.18.10"
   }
