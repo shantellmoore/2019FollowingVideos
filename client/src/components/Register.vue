@@ -1,4 +1,4 @@
-<template>
+ <template>
     <div>
         <h1>Register </h1>
 
@@ -41,3 +41,4 @@ methods: {
 <style scoped>
 
 </style>
+
